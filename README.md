@@ -409,6 +409,7 @@ The solution establishes a foundation for autonomous procurement operations and 
 
 <img width="1536" height="1024" alt="flow" src="https://github.com/user-attachments/assets/58384f5e-39c1-48f6-886a-0156fa62ade3" />
 
+
 **High level Skills measured :**
 
 1\. Requirement analysis
