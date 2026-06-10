@@ -1,5 +1,7 @@
 ## **Team C – Agent Operations & Platform Engineering** 
 
+## **Please note : Below diagram is just for reference and subject to change as per refinement in problem statement**
+
 <img width="1536" height="1024" alt="teamwise" src="https://github.com/user-attachments/assets/589b1595-3be3-476c-9cef-fc81d017eb84" />
 
 ## **Problem Statement** 
