@@ -1,5 +1,7 @@
 ## **Team B – Procurement Intelligence & Fulfillment Platform** 
 
+<img width="1536" height="1024" alt="teamwise" src="https://github.com/user-attachments/assets/9efc47fe-c51f-43bb-8aef-55ceb3d42136" />
+
 ## **Problem Statement** 
 
 ## **Background** 
