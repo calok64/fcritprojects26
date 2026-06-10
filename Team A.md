@@ -1,5 +1,7 @@
 ## **Team A – Procurement Workflow Automation Platform** 
 
+<img width="1536" height="1024" alt="teamwise" src="https://github.com/user-attachments/assets/c491b092-945d-4872-8769-3407c98ef5f6" />
+
 ## **Problem Statement** 
 
 ## **Background** 
