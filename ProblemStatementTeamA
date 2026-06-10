@@ -1,22 +1,30 @@
-# <span style="color:#2563EB;">Team A – Procurement Workflow Automation Platform</span>
+# 🚀 Team A – Procurement Workflow Automation Platform
 
 ---
 
-# <span style="color:#16A34A;">Problem Statement</span>
+# Problem Statement
 
-## <span style="color:#EA580C;">Background</span>
+## Background
 
-Procurement is a critical business function responsible for acquiring goods and services required to support business operations. In many organizations, procurement activities are still heavily dependent on manual processes, disconnected systems, spreadsheets, emails, and human intervention.
+Procurement is a critical business function responsible for acquiring goods and services required to support business operations.
+
+In many organizations, procurement activities are still heavily dependent on:
+
+* Manual processes
+* Disconnected systems
+* Spreadsheets
+* Emails
+* Human intervention
 
 A typical procurement cycle involves:
 
-* Receiving purchase requests
-* Validating documents
-* Onboarding vendors
-* Obtaining approvals
-* Generating contracts
-* Collecting signatures
-* Notifying stakeholders
+1. Receiving purchase requests
+2. Validating documents
+3. Onboarding vendors
+4. Obtaining approvals
+5. Generating contracts
+6. Collecting signatures
+7. Notifying stakeholders
 
 Each of these activities is often performed manually across multiple departments.
 
@@ -24,7 +32,7 @@ As procurement volume increases, organizations face challenges in maintaining ef
 
 ---
 
-# <span style="color:#DC2626;">Current Business Challenges</span>
+# Current Business Challenges
 
 ## 📄 Manual Document Processing
 
@@ -66,14 +74,16 @@ Vendor onboarding requires verification of:
 * Address verification
 * Compliance documents
 
-Current processes are often manual and time-consuming.
-
 ### Challenges
 
 * Duplicate vendor creation
 * Incomplete vendor information
 * Lack of verification
 * Compliance risks
+
+### Business Impact
+
+> Increased onboarding time and governance risks.
 
 ---
 
@@ -86,7 +96,7 @@ Procurement requests often require multiple levels of approval based on:
 * Business unit
 * Risk category
 
-Current approval mechanisms rely on:
+Current approval methods include:
 
 * Emails
 * Phone calls
@@ -99,6 +109,10 @@ Current approval mechanisms rely on:
 * Lack of visibility
 * Escalation issues
 
+### Business Impact
+
+> Slower procurement execution and operational delays.
+
 ---
 
 ## 📑 Contract Management Challenges
@@ -107,7 +121,7 @@ Contract creation typically involves:
 
 * Manual drafting
 * Copying templates
-* Legal review
+* Legal reviews
 * Email exchanges
 * Signature collection
 
@@ -117,6 +131,10 @@ Contract creation typically involves:
 * Version management issues
 * Lack of contract visibility
 * Missed renewals
+
+### Business Impact
+
+> Increased legal and operational risks.
 
 ---
 
@@ -135,21 +153,25 @@ Stakeholders frequently lack visibility into:
 * Reduced productivity
 * Poor stakeholder experience
 
+### Business Impact
+
+> Increased coordination effort and reduced transparency.
+
 ---
 
-# <span style="color:#7C3AED;">Proposed Solution</span>
+# Proposed Solution
 
 Develop an **AI-Powered Procurement Workflow Automation Platform** that automates the complete procurement lifecycle from document ingestion to contract execution.
 
-The platform will leverage specialized AI agents to perform procurement activities autonomously while enforcing business rules, governance standards, and compliance requirements.
+The platform will leverage specialized AI agents to perform procurement activities autonomously while enforcing business rules, compliance requirements, and governance standards.
 
 ---
 
-# <span style="color:#0891B2;">Solution Components</span>
+# Solution Components
 
 ## 🤖 Document Intelligence Agent
 
-### Automates
+### Responsibilities
 
 * OCR Processing
 * Document Classification
@@ -167,7 +189,7 @@ The platform will leverage specialized AI agents to perform procurement activiti
 
 ## 🔍 Vendor Intelligence Agent
 
-### Automates
+### Responsibilities
 
 * Vendor onboarding
 * Vendor verification
@@ -184,7 +206,7 @@ The platform will leverage specialized AI agents to perform procurement activiti
 
 ## 🚀 Approval Agent
 
-### Automates
+### Responsibilities
 
 * Approval routing
 * Escalation management
@@ -201,7 +223,7 @@ The platform will leverage specialized AI agents to perform procurement activiti
 
 ## 📜 Contract Intelligence Agent
 
-### Automates
+### Responsibilities
 
 * Contract generation
 * Template selection
@@ -218,7 +240,7 @@ The platform will leverage specialized AI agents to perform procurement activiti
 
 ## 📧 Notification Agent
 
-### Automates
+### Responsibilities
 
 * Email alerts
 * Approval reminders
@@ -232,20 +254,20 @@ The platform will leverage specialized AI agents to perform procurement activiti
 
 ---
 
-# <span style="color:#059669;">Expected Business Outcomes</span>
+# Expected Business Outcomes
 
-| KPI                          | Expected Improvement       |
-| ---------------------------- | -------------------------- |
-| Manual Procurement Effort    | **70% Reduction**          |
-| Approval Processing Time     | **60% Faster**             |
-| Vendor Onboarding Efficiency | **Significantly Improved** |
-| Compliance Violations        | **Reduced**                |
-| Procurement Visibility       | **Enhanced**               |
-| Operational Productivity     | **Increased**              |
+| KPI                          | Expected Improvement |
+| ---------------------------- | -------------------- |
+| Manual Procurement Effort    | 70% Reduction        |
+| Approval Processing Time     | 60% Faster           |
+| Vendor Onboarding Efficiency | Improved             |
+| Compliance Violations        | Reduced              |
+| Procurement Visibility       | Enhanced             |
+| Operational Productivity     | Increased            |
 
 ---
 
-# 🎯 Project Objective
+# Project Objective
 
 Build a scalable, AI-driven procurement automation platform capable of streamlining procurement operations, reducing manual intervention, improving compliance, accelerating approvals, and enhancing visibility across the entire procurement lifecycle.
 
