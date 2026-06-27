@@ -403,11 +403,16 @@ By leveraging Agentic AI and enterprise automation, organizations can achieve:
 
 The solution establishes a foundation for autonomous procurement operations and future AI-driven supply chain optimization initiatives.
 
-<img width="1536" height="1024" alt="arch" src="https://github.com/user-attachments/assets/6178423b-be88-41e5-b9e0-ffff58239627" />
+<img width="1536" height="1024" alt="arch" src="https://github.com/user-attachments/assets/5a1f5fb3-bf9e-42af-a684-eee5a95a2e25" />
 
-<img width="1536" height="1024" alt="agent" src="https://github.com/user-attachments/assets/7373e68d-d3c4-4b61-9d6f-5f9488066f70" />
+<img width="1536" height="1024" alt="flow" src="https://github.com/user-attachments/assets/fd5a00b3-e5b9-41ee-80ab-08de13e81c72" />
 
-<img width="1536" height="1024" alt="flow" src="https://github.com/user-attachments/assets/58384f5e-39c1-48f6-886a-0156fa62ade3" />
+<img width="1536" height="1024" alt="agent" src="https://github.com/user-attachments/assets/2c1134f2-bb61-4441-8fdd-31131704d3a8" />
+
+<img width="1536" height="1024" alt="deploy" src="https://github.com/user-attachments/assets/2cbba833-feb0-4142-aec1-a7c95a80c8a5" />
+
+
+
 
 
 **High level Skills measured :**
