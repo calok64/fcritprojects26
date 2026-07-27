@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="teamwise plan" src="https://github.com/user-attachments/assets/9479bdac-f9fd-47d7-9529-bb03055e3298" /><img width="1536" height="1024" alt="teamwise plan" src="https://github.com/user-attachments/assets/a3be81ae-11a2-41d1-b2c7-800593a66945" />
+<img width="1536" height="1024" alt="teamwise plan" src="https://github.com/user-attachments/assets/a3be81ae-11a2-41d1-b2c7-800593a66945" />
 
 **Team A — Document and Vendor Intelligence**
 
