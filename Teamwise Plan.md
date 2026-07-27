@@ -1,6 +1,8 @@
 <img width="1536" height="1024" alt="teamwise plan" src="https://github.com/user-attachments/assets/a3be81ae-11a2-41d1-b2c7-800593a66945" />
 
+_____________________________________________________________________________________________________________________________________________________________________________
 **Team A — Document and Vendor Intelligence**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **1) Detail about task:**
 Team A is responsible for collecting procurement documents from uploads, emails, APIs and shared folders, followed by file validation, preprocessing, OCR, layout analysis, document classification and field extraction. The team also validates extracted information, calculates confidence scores, detects duplicates or anomalies, supports manual correction, creates the project’s core data model and manages vendor onboarding and profile validation.
