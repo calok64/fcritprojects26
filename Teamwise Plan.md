@@ -23,7 +23,9 @@ PaddleOCR provides documented OCR and document-processing capabilities, while Po
 **3) Example:**
 A supplier invoice received through email is stored in MinIO and processed using PaddleOCR. Team A extracts the invoice number, supplier details, line items, taxes and total amount. The system validates the total, checks whether the invoice already exists and sends low-confidence fields to a React-based manual-review screen.
 
+_____________________________________________________________________________________________________________________________________________________________________________
 **Team B — Approval and Inventory Intelligence**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **1) Detail about task:**
 Team B develops the approval and inventory workflows. The team defines approval rules, identifies the correct approvers, tracks pending requests, sends reminders and manages escalations. It also checks item availability, reserves stock, releases expired reservations, handles unavailable quantities and provides backorder or reorder suggestions.
@@ -42,7 +44,9 @@ Mailpit — local testing of approval email notifications
 **3) Example:**
 A purchase request for 20 laptops is submitted. The Inventory Intelligence Agent checks availability and reserves 12 units. The remaining eight units are placed on backorder. Based on the request value, the Approval Agent routes the request to the department manager and finance manager, monitors the response deadline and escalates it when an approval becomes overdue.
 
+_____________________________________________________________________________________________________________________________________________________________________________
 **Team C — Contract and Risk Intelligence**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **1) Detail about task:**
 Team C manages contract generation and vendor-risk analysis. The team creates reusable contract templates, populates them using approved procurement data, sends contracts for electronic signature and tracks contract versions, renewals, expiry dates and repository records. It also evaluates vendor profiles for compliance, fraud, financial, supplier and operational risks.
@@ -62,7 +66,9 @@ Team C manages contract generation and vendor-risk analysis. The team creates re
 **3) Example:**
 After a procurement request is approved, the Contract Intelligence Agent selects the appropriate contract template and fills in the supplier, pricing and delivery terms. The contract is sent through DocuSeal for signature. At the same time, the Risk Analysis Agent checks the vendor’s verification status, previous delivery delays and compliance history. A high-risk result is shown to the contract manager before final execution.
 
+_____________________________________________________________________________________________________________________________________________________________________________
 **Team D — Platform and Infrastructure**
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **1) Detail about task:**
 Team D builds and operates the common platform used by every agent. Its responsibilities include environment setup, Kubernetes, containerization, Kafka, API gateway, PostgreSQL, Redis, MinIO, CI/CD, scheduling, monitoring, backup, disaster recovery, security, secrets management and infrastructure automation. The team ensures that all services can be deployed, scaled, secured and monitored consistently.
