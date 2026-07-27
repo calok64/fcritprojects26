@@ -7,14 +7,14 @@ Team A is responsible for collecting procurement documents from uploads, emails,
 
 **2) Possible free tools:**
 
-**PaddleOCR** — OCR, document layout analysis and text extraction
-**OpenCV** — image preprocessing, resizing, denoising and rotation correction
-**Apache Spark** — distributed and parallel document processing
-**FastAPI** — document and vendor API development
-**PostgreSQL** — project data model and vendor master database
-**MinIO** — storage for original documents and extraction results
-**Label Studio** — document labelling and extraction-quality review
-**React and Bootstrap** — manual-review and vendor-onboarding UI
+* PaddleOCR — OCR, document layout analysis and text extraction
+* OpenCV — image preprocessing, resizing, denoising and rotation correction
+* Apache Spark — distributed and parallel document processing
+* FastAPI — document and vendor API development
+* PostgreSQL — project data model and vendor master database
+* MinIO — storage for original documents and extraction results
+* Label Studio — document labelling and extraction-quality review
+* React and Bootstrap — manual-review and vendor-onboarding UI
 
 PaddleOCR provides documented OCR and document-processing capabilities, while PostgreSQL remains a free and open-source database platform.
 
