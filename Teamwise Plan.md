@@ -28,13 +28,13 @@ Team B develops the approval and inventory workflows. The team defines approval 
 
 **2) Possible free tools:**
 
-FastAPI — approval and inventory service APIs
-Open Policy Agent — configurable approval and inventory business rules
-PostgreSQL — approval history, rules and inventory transactions
-Redis — reservation locks, temporary state and duplicate-request prevention
-Temporal — approval reminders, timeouts and escalation workflows
-Apache Kafka — approval and inventory events
-React and Bootstrap — approver inbox and inventory screens
+* FastAPI — approval and inventory service APIs
+* Open Policy Agent — configurable approval and inventory business rules
+* PostgreSQL — approval history, rules and inventory transactions
+* Redis — reservation locks, temporary state and duplicate-request prevention
+* Temporal — approval reminders, timeouts and escalation workflows
+* Apache Kafka — approval and inventory events
+* React and Bootstrap — approver inbox and inventory screens
 Mailpit — local testing of approval email notifications
 
 **3) Example:**
@@ -47,15 +47,15 @@ Team C manages contract generation and vendor-risk analysis. The team creates re
 
 **2) Possible free tools:**
 
-**DocumentSO** — self-hosted document signing and contract workflows
-**OpenSign** — open-source electronic-signature platform
-**MinIO** — contract-template and signed-document storage
-**PostgreSQL** — contract metadata, expiry dates and risk findings
-**FastAPI** — contract and risk service APIs
-**Open Policy Agent** — compliance and risk business rules
-**scikit-learn** — baseline anomaly and vendor-risk models
-**MLflow** — risk-model experiments and model-version tracking
-**React and Bootstrap** — contract repository and risk dashboard
+* DocumentSO — self-hosted document signing and contract workflows
+* OpenSign — open-source electronic-signature platform
+* MinIO — contract-template and signed-document storage
+* PostgreSQL — contract metadata, expiry dates and risk findings
+* FastAPI — contract and risk service APIs
+* Open Policy Agent — compliance and risk business rules
+* scikit-learn — baseline anomaly and vendor-risk models
+* MLflow — risk-model experiments and model-version tracking
+* React and Bootstrap — contract repository and risk dashboard
 
 **3) Example:**
 After a procurement request is approved, the Contract Intelligence Agent selects the appropriate contract template and fills in the supplier, pricing and delivery terms. The contract is sent through DocuSeal for signature. At the same time, the Risk Analysis Agent checks the vendor’s verification status, previous delivery delays and compliance history. A high-risk result is shown to the contract manager before final execution.
@@ -67,17 +67,17 @@ Team D builds and operates the common platform used by every agent. Its responsi
 
 **2) Possible free tools:**
 
-**Docker Engine or Podman**— containerization
-**Kubernetes and kind** — container orchestration and local clusters
-**Helm** — Kubernetes application packaging
-**Apache Kafka** — event-streaming platform
-**Nginx or Kong Gateway OSS** — API gateway and routing
-**PostgreSQL, Redis and MinIO** — shared data services
-**GitLab Community Edition and Jenkins** — source control and CI/CD
-**Prometheus, Grafana and Loki** — monitoring and logging
-**OpenBao** — secrets management
-**Terraform, OpenTofu and Ansible** — infrastructure automation
-**OpenProject Community Edition** — team planning and infrastructure task tracking
+* Docker Engine or Podman— containerization
+* Kubernetes and kind — container orchestration and local clusters
+* Helm — Kubernetes application packaging
+* Apache Kafka — event-streaming platform
+* Nginx or Kong Gateway OSS — API gateway and routing
+* PostgreSQL, Redis and MinIO — shared data services
+* GitLab Community Edition and Jenkins — source control and CI/CD
+* Prometheus, Grafana and Loki — monitoring and logging
+* OpenBao — secrets management
+* Terraform, OpenTofu and Ansible — infrastructure automation
+* OpenProject Community Edition — team planning and infrastructure task tracking
 
 OpenProject’s Community Edition can be installed and used free on the team’s own infrastructure.
 
